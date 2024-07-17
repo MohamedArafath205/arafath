@@ -7,7 +7,7 @@ export function FlipWordComponent() {
   return (
     <div className="mt-5">
       <div className="md:text-5xl mx-auto font-normal text-neutral-600 dark:text-neutral-400">
-        I'm good at <FlipWords words={words} />
+        I&apos;m good at <FlipWords words={words} />
       </div>
     </div>
   );
