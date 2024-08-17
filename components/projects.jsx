@@ -1,5 +1,6 @@
 import React from "react";
 import { EvervaultCardDemo } from "./evervaultcard";
+import { TracingBeam } from "./ui/tracing-beam";
 
 const Projects = () => {
   return (
